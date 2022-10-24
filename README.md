@@ -1,8 +1,8 @@
-# SEP11 Freedom Project
-by X
+# SEP12 Freedom Project
+by Grace Dong
 
 ## Context
-The "Freedom Project" for SEP11 is all about X. The purpose of this blog is to X.
+The "Freedom Project" for SEP12 is all about X. The purpose of this blog is to X.
 
 ## Content
 For my project, I am making X. This blog will walk through my process of independently studying X in order to make X.
